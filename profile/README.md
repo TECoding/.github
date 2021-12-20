@@ -17,4 +17,4 @@ And other CS students can join us to spread the passion and love for tech 🤖�
 Everyone is welcome! And don't be afraid to be yourself 💖
 
 ### Useful resources
-- Our [Code of Conduct](../CODE_OF_CONDUCT.md).
+- Our [Code of Conduct](./CODE_OF_CONDUCT.md).
