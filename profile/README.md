@@ -11,6 +11,8 @@ And other CS students can join us to spread the passion and love for tech 🤖�
 ## Our projects
 - 🎉 [HiTec Quiz App](https://github.com/TECoding/hitec-2021): We created this app so new students at our university could explore new communities and group to improve their school experiences and match them to a group they could be part of.
 - 📈 [FETEC App](https://github.com/TECoding/FETEC-APP): We're currently working on an app to showcase local small businesses in the student and entrepeneurs community to help them grow.
+- 🍕 [Meet && Code](https://www.instagram.com/p/CcuDQMFudpl/): We hosted an event sponsored by GitHub to reunite and grow the tech community at our Campus (Guadalajara), giving an opening keynote/conference, hosting some challenges with swag prizes and we had two contests: Our first ever live coding challenge and a live quiz with some hard questions. We had an excelent engagement with over 70 attendees and over 150 registry entries (which we had to cut because of the auditorium full capacity).
+- 👨‍💻👩‍💻 Coming soon Guadalajara...
 
 ## Want to join us?
 ✨ Sure! Just join our [Discord](https://discord.gg/CJ6guzBXRR)!
