@@ -20,3 +20,4 @@ Everyone is welcome! And don't be afraid to be yourself 💖
 
 ### Useful resources
 - Our [Code of Conduct](./CODE_OF_CONDUCT.md).
+- Our [Instagram page](https://www.instagram.com/tecoding_gda/).
